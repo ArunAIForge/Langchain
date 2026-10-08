@@ -1,0 +1,8 @@
+# pip install -r requirements.txt
+# ollama run llama3.2:3b
+langchain
+langchain-core
+langchain-ollama
+langchain-openai
+python-dotenv
+langsmith
